@@ -34,8 +34,13 @@ sudo mv todo /usr/local/bin/
 
 ### 2. Prebuilt binaries
 
-*(Optional — you can provide prebuilt binaries for Linux, macOS, Windows here if you want.)*
+Update your README **Installation** section to:
 
+```markdown
+## Installation
+
+See [INSTALL.md](INSTALL.md) for detailed installation instructions.
+```
 ---
 
 ## Usage
